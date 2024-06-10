@@ -1,5 +1,4 @@
 
----
 
 # EatsExpress
 
@@ -23,7 +22,7 @@ EatsExpress is an online food ordering website built using the MERN stack (Mongo
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/EatsExpress.git
+    git clone https://github.com/Ritulkr/EatsExpress.git
     cd EatsExpress
     ```
 
@@ -62,7 +61,6 @@ EatsExpress is an online food ordering website built using the MERN stack (Mongo
 1. Open your browser and navigate to `http://localhost:3000` to access the website.
 2. Sign up or log in to your account.
 3. Browse restaurants, add items to your cart, and place orders.
-
 
 ## License
 
