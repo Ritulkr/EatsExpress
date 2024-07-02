@@ -4,7 +4,6 @@ EatsExpress is an online food ordering website built using the MERN stack (Mongo
 
 ## Features
 
-
 - User Authentication and Authorization
 - Browse and Search Restaurants and Menus
 - Add to Cart and Place Orders
